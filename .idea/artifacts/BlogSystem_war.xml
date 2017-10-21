@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="BlogSystem:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlogSystem_war</output-path>
+    <root id="archive" name="BlogSystem_war.war">
+      <element id="artifact" artifact-name="BlogSystem:war exploded" />
+    </root>
+  </artifact>
+</component>
